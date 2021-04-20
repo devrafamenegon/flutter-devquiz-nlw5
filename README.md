@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/logo.png" width="120px">
+  <img src=".github/logo1.png" width="120px">
 </p>
 
 ## 🧪 Technologies
@@ -10,7 +10,7 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-[Splash](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/splash.png)
+![Splash](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/splash.png)
 
 ![Home](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/home.png)
 
