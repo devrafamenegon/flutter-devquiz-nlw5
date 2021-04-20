@@ -1,16 +1,61 @@
-# flutter_devquiz
+<p align="center">
+  <img src=".github/logo.png" width="120px">
+</p>
 
-A new Flutter project.
+## 🧪 Technologies
 
-## Getting Started
+This project was developed using the following technologies:
 
-This project is a starting point for a Flutter application.
+- [Flutter](https://flutter.dev/)
 
-A few resources to get you started if this is your first Flutter project:
+## 🔥 Preview
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Splash](https://github.com/C0bal/flutter-devquiz-nlw5/blob/master/.github/splash.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home](https://github.com/C0bal/flutter-devquiz-nlw5/blob/master/.github/home.png)
+
+![Quiz](https://github.com/C0bal/flutter-devquiz-nlw5/blob/master/.github/quiz.png)
+
+![Acertou](https://github.com/C0bal/flutter-devquiz-nlw5/blob/master/.github/acertou.png)
+
+![Errou](https://github.com/C0bal/flutter-devquiz-nlw5/blob/master/.github/errou.png)
+
+![Parabéns](https://github.com/C0bal/flutter-devquiz-nlw5/blob/master/.github/parabens.png)
+
+## 🚀 Getting started
+
+Clone the project and access the folder
+
+```bash
+$ git clone https://github.com/C0bal/flutter-devquiz-nlw5 && cd flutter-devquiz-nlw5
+```
+
+Follow the steps below
+
+```bash
+# Open the project
+$ Go to Android Studio
+
+# Run app
+$ Open project folder and run the application
+```
+
+## 💻 Project
+
+DevQuiz is an application developed with Flutter for you to learn Flutter! are we in a loop?
+
+## 🔖 Layout
+
+You can view the project layout through the links below:
+
+- [Layout Web](https://www.figma.com/file/fMqKhwT9L5D3MVe4btRtG5/DevQuiz/duplicate)
+
+Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+
+---
+
+<p align="center">Made by Rafael Menegon with 🖤🐱‍👤</p>
