@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=".github/logo1.png" width="120px">
-</p>
-
 ## 🧪 Technologies
 
 This project was developed using the following technologies:
