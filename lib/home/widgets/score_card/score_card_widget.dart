@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_devquiz/core/app_colors.dart';
 import 'package:flutter_devquiz/core/app_text_styles.dart';
-import 'package:flutter_devquiz/widgets/chart/chart_widget.dart';
+import 'package:flutter_devquiz/home/widgets/chart/chart_widget.dart';
 
 class ScoreCardWidget extends StatelessWidget {
   @override
@@ -12,10 +12,11 @@ class ScoreCardWidget extends StatelessWidget {
         height: 136,
         decoration: BoxDecoration(
           color: AppColors.white,
+            border: Border.fromBorderSide(BorderSide(color: AppColors.border)),
           borderRadius: BorderRadius.circular(15)
         ),
         child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 15),
+          padding: const EdgeInsets.symmetric(horizontal: 24),
           child: Row(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [

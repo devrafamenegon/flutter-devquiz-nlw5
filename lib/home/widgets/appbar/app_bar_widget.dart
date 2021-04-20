@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_devquiz/core/app_gradients.dart';
 import 'package:flutter_devquiz/core/app_text_styles.dart';
-import 'package:flutter_devquiz/widgets/score_card/score_card_widget.dart';
+import 'package:flutter_devquiz/home/widgets/score_card/score_card_widget.dart';
 
 class AppBarWidget extends PreferredSize {
   AppBarWidget()
@@ -32,8 +32,8 @@ class AppBarWidget extends PreferredSize {
                         ),
                       ),
                       Container(
-                        width: 58,
-                        height: 58,
+                        width: 48,
+                        height: 48,
                         decoration: BoxDecoration(
                           borderRadius: BorderRadius.circular(10),
                           image: DecorationImage(
