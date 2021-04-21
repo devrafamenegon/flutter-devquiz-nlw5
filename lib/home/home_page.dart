@@ -19,6 +19,7 @@ class _HomePageState extends State<HomePage> {
         padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8.0),
         child: Column(
           children: [
+            SizedBox(height: 8),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
@@ -28,12 +29,17 @@ class _HomePageState extends State<HomePage> {
                 LevelButtonWidget(label: "Perito"),
               ],
             ),
+            SizedBox(height: 24),
             Expanded(
-              child: ListView(children: [
-                QuizCardWidget(),
-                QuizCardWidget(),
-                QuizCardWidget(),
-                QuizCardWidget(),
+              child: GridView.count(
+                crossAxisSpacing: 16,
+                mainAxisSpacing: 16,
+                crossAxisCount: 2,
+                children: [
+                  QuizCardWidget(),
+                  QuizCardWidget(),
+                  QuizCardWidget(),
+                  QuizCardWidget(),
               ]),
             ),
           ],

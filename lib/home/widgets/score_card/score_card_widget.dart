@@ -7,7 +7,7 @@ class ScoreCardWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(left: 20, right: 20),
+      padding: const EdgeInsets.symmetric(horizontal: 20),
       child: Container(
         height: 136,
         decoration: BoxDecoration(
