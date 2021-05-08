@@ -10,11 +10,11 @@ This project was developed using the following technologies:
 
 ![Home](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/home.png)
 
-![Desafio](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/desafio.png)
+![Desafio](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/Desafio.png)
 
-![Certo](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/certo.png)
+![Certo](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/Certo.png)
 
-![Errado](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/errado.png)
+![Errado](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/Errado.png)
 
 ![Parabens](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/parabens.png)
 
