@@ -16,7 +16,7 @@ This project was developed using the following technologies:
 
 ![Errou](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/Errado.png)
 
-![Parabéns](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/Parabens.png)
+![Parabens](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/Parabens.png)
 
 ## 🚀 Getting started
 
