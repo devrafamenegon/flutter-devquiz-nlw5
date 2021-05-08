@@ -6,17 +6,17 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-![Splash](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/Splash.png)
+![Splash](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/splash.png)
 
-![Home](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/Home.png)
+![Home](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/home.png)
 
-![Desafio](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/Desafio.png)
+![Desafio](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/desafio.png)
 
-![Certo](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/Certo.png)
+![Certo](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/certo.png)
 
-![Errado](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/Errado.png)
+![Errado](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/errado.png)
 
-![Parabens](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/Parabens.png)
+![Parabens](https://github.com/C0bal/flutter-devquiz-nlw5/blob/main/.github/parabens.png)
 
 ## 🚀 Getting started
 
